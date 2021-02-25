@@ -26,9 +26,9 @@ int main() {
 
 //CREATING UNIQUE SIZES
 	for (int i = 0; i < n; i++) {
-		int size = rand()%10;
+		int size = rand()%1000;
 		while (sizes.find(size) != sizes.end()) {
-			size = rand() % 10;
+			size = rand() % 1000;
 		}
 		sizes.emplace(size);
 		v_arr[i].resize(size);
