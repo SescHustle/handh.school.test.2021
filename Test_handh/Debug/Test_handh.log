@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\Paul\3\Work\Test_handh\Source.cpp(19,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\Paul\3\Work\Test_handh\Source.cpp(39,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Test_handh.vcxproj -> E:\Paul\3\Work\Test_handh\Debug\Test_handh.exe
